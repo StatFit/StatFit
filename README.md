@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Seja bem-vindo (a) ! 👋, Sou StatFit StatFit</h1>
+<h1 align="center">Olá! Seja bem-vindo (a) ! 👋, Sou StatFit /h1>
 <h3 align="center">Interessado em Ciência de Dados / Estatística e sua possíveis aplicações.</h3>
 
 - 📄 Contato em [https://www.linkedin.com/in/simao-chazin-89a6a923/](https://www.linkedin.com/in/simao-chazin-89a6a923/)
