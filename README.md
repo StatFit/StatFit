@@ -1,4 +1,4 @@
-### Olá ! Seja bem-vindo (a) ! Sout @StatFit e estou interessado em Ciência de Dados / Estatística e suas possíveis aplicações 👋
+### Olá ! Seja bem-vindo (a) ! Sou @StatFit e estou interessado em Ciência de Dados / Estatística e suas possíveis aplicações 👋
 
 <!--
 **StatFit/StatFit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
